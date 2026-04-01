@@ -61,7 +61,8 @@ function copyDir(src, dest, tokens) {
   for (const entry of fs.readdirSync(src, { withFileTypes: true })) {
     if (entry.name === 'template.json' || entry.name === 'node_modules') continue;
     const srcPath = path.join(src, entry.name);
-    const destPath = path.join(dest, entry.name);
+    const destName = entry.name === 'APP_README.md' ? 'README.md' : entry.name;
+    const destPath = path.join(dest, destName);
     if (entry.isDirectory()) {
       copyDir(srcPath, destPath, tokens);
     } else {
