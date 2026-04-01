@@ -1,0 +1,7 @@
+{
+  "name": "chat",
+  "displayName": "AI Chat",
+  "description": "AI chat interface with ChatContainer, voice input, and G2 glasses display",
+  "tags": ["ai", "chat", "voice"],
+  "components": ["AppShell", "NavHeader", "Button", "ChatContainer", "ChatBubble", "ChatInput", "ChatThinking", "VoiceInput", "SettingsGroup", "ListItem", "Select", "Toggle", "Input"]
+}

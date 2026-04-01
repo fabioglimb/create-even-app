@@ -1,0 +1,7 @@
+{
+  "name": "media",
+  "displayName": "Media Gallery",
+  "description": "A media gallery app with photo grid, audio player, file uploads, and glass display",
+  "tags": ["media", "gallery", "audio", "photos"],
+  "components": ["DrawerShell", "Card", "ListItem", "CategoryFilter", "BottomSheet", "ImageViewer", "AudioPlayer", "FileUpload", "EmptyState", "SettingsGroup", "Toggle", "Button", "ScreenHeader"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "notes",
+  "displayName": "Notes App",
+  "description": "A notes and productivity CRUD app with categories, search, and glass display",
+  "tags": ["productivity", "crud", "notes"],
+  "components": ["DrawerShell", "SearchBar", "CategoryFilter", "ListItem", "Badge", "EmptyState", "Card", "Input", "Textarea", "Select", "Button", "SettingsGroup", "Toggle", "ScreenHeader"]
+}

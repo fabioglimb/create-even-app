@@ -1,0 +1,7 @@
+{
+  "name": "tracker",
+  "displayName": "Activity Tracker",
+  "description": "Activity and habit tracker with daily goals, history calendar, and focus timer — built for G2 smart glasses",
+  "tags": ["tracker", "habits", "health"],
+  "components": ["DrawerShell", "ScreenHeader", "Card", "Button", "Progress", "StatusProgress", "TimerRing", "StatGrid", "Calendar", "Timeline", "StepIndicator", "Select", "Slider", "Input", "Textarea", "Badge", "SettingsGroup", "Toggle", "Divider", "ListItem"]
+}

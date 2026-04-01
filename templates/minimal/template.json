@@ -1,0 +1,7 @@
+{
+  "name": "minimal",
+  "displayName": "Clean Starter",
+  "description": "Minimal app with AppShell, NavHeader, and a welcome screen",
+  "tags": ["starter", "simple"],
+  "components": ["AppShell", "NavHeader", "Button", "Card", "ScreenHeader"]
+}

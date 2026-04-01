@@ -1,0 +1,7 @@
+{
+  "name": "dashboard",
+  "displayName": "Data Dashboard",
+  "description": "Analytics dashboard with charts, stats, and timeline — built for G2 smart glasses",
+  "tags": ["dashboard", "charts", "analytics"],
+  "components": ["AppShell", "NavBar", "ScreenHeader", "StatGrid", "StatCard", "LineChart", "BarChart", "PieChart", "Timeline", "SettingsGroup", "Toggle", "ListItem", "Card"]
+}

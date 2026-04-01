@@ -1,0 +1,28 @@
+{
+  "name": "@even-toolkit/create-even-app",
+  "version": "1.1.0",
+  "description": "Scaffold a new Even Realities G2 glasses app from a template gallery",
+  "type": "module",
+  "bin": {
+    "create-even-app": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "templates/"
+  ],
+  "keywords": [
+    "even-realities",
+    "even-toolkit",
+    "g2-glasses",
+    "smart-glasses",
+    "scaffold",
+    "create-app",
+    "template"
+  ],
+  "author": "fabioglimb",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabioglimb/create-even-app"
+  }
+}
