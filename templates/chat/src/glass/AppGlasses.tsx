@@ -63,7 +63,7 @@ export function AppGlasses() {
     appName: '{{DISPLAY_NAME_UPPER}}',
     splash: appSplash,
     getPageMode: (screen) => screen === 'home' ? 'home' : 'text',
-    homeImageTiles: homeTiles,
+    mainImageTiles: homeTiles,
   })
 
   return null
